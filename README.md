@@ -50,6 +50,6 @@ Key: <chave_criptografia>
 Segurança da Chave: A chave de criptografia deve ser mantida em um local seguro, pois é necessária para recuperar as senhas.
 Gerenciamento de Arquivo de Chave: Depois de arquivar a chave, mova-a para um local seguro e remova o arquivo da pasta keys para evitar acessos indesejados.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python
 - Cryptography (biblioteca)
