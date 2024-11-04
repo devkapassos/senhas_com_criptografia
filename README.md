@@ -22,8 +22,8 @@ Este projeto é um gerenciador de senhas seguro em Python que utiliza a criptogr
 
 1. **Clonar o Repositório**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone <(https://github.com/devkapassos/senhas_com_criptografia)>
+   cd <senhas_com_criptografia>
 2. Instalar Dependências Este projeto utiliza a biblioteca cryptography. Instale-a usando pip:
    pip install cryptography
 3. Configurar Diretórios Certifique-se de que as pastas keys e db existam na raiz do projeto para armazenar as chaves e os dados.
